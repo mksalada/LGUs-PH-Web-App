@@ -1,6 +1,6 @@
 # Local Government Units in Luzon
 Philippines' Local Government Units in Luzon
-(github.com/mksalada/LuzonLGUs.git)
+(github.com/mksalada/LuzonLGUs)
 
 # About This Application:
 This web application manages the data of the Local Government Units (LGU) in the Philippines but only covers the regions of Luzon island: National Capital Region (NCR), Regions 1 to 5, and Cordillera Administrative Region (CAR). This application is inspired from the Local Government Academy's Local Government Units Directory (lga.gov.ph/directory) where you can find all of the LGUs in the whole Philippine islands.
