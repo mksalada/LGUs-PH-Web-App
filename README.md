@@ -1,4 +1,4 @@
-# Luzon LGUs
+# Local Government Units in Luzon
 Philippines' Local Government Units in Luzon
 (github.com/mksalada/LuzonLGUs.git)
 
