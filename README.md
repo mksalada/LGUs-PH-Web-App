@@ -23,4 +23,4 @@ Inside your web server's Apache folder, open the "httpd.conf" file in your text 
 Then, inside the "lgus" folder, open the folder named "app", and open the "database.php" file in your text editor. Find the "class Database" and inside it, find "public $default". Change the "hostname", which is "localhost" if you want, and provide a "username", "password" (you can leave this blank) and "database".
 Now open your web browser and type "localhost".
 
-# For inquiries, email me (https://mksit.tk/#contact).
+# For inquiries, go to this link -> https://mksit.tk/#contact.
