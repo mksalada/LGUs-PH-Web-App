@@ -1,5 +1,5 @@
 # LGUs PH Web App
-Local Government Units in the Philippines Web Application (LGUs PH Web App)
+Local Government Units in the Philippines Web Application (LGUs PH Web App) by M. K. Salada
 
 This web application manages the data of the Local Government Units (LGUs) in the Philippines but only covers the regions of Luzon island: National Capital Region (NCR), Regions 1 to 5, and Cordillera Administrative Region (CAR). This application is inspired from the Local Government Academy’s Local Government Units Directory ([lga.gov.ph/directory](lga.gov.ph/directory)) where you can find all of the LGUs in the whole Philippine islands.
 
@@ -10,7 +10,9 @@ The database was made easy because of _OJ Tibi’s Philippine Provinces and Citi
 * Web browser
 * Web server
 * Database application
-* File/Repository
+* Files in the repository
+    * lgus.rar
+    * luzonlgus.sql
 
 ## Installation Procedures
 First, ensure that your web server’s Apache and MySQL are both running. Then, import the ```luzonlgus.sql``` script in your database application inside your choosen database.
@@ -26,7 +28,7 @@ DocumentRoot "${INSTALL_DIR}\www\lgus\public"
 
 Then, inside the ```lgus``` folder, open the folder named ```app```, and open the ```database.php``` file in your text editor. Find the ```class Database``` and inside it, find ```public $default```. Change the ```hostname```, which is ```localhost``` if you want, and provide a ```username```, ```password``` (you can leave this blank) and ```database```. Now open your web browser and type “localhost”.
 
-# About the Philippines
+# About The Philippines
 
 ![Map of the Philippines, highlighted the islands of Luzon in red](luzon.png)
 
@@ -54,7 +56,8 @@ File download options
 * [Zip File](https://github.com/mksalada/LGUs-PH-Web-App/archive/master.zip)
 * [Fork/Clone Repository on GitHub](https://github.com/mksalada/LGUs-PH-Web-App/)
 
-# About
+# About This Project
+This project *'Local Government Units in the Philippines Web Application (LGUs PH Web App)'* is for the completion of my subject *'ITP 6/L Web Development'* to Mr. Roy Cyril Dosado (@[rcdosado](https://github.com/rcdosado)) at the Palawan State University.
 
 ## Citations
 Photos and Icons are not mine.
@@ -64,7 +67,7 @@ Photos and Icons are not mine.
 ## Notice
 This application is on-going. Currently it have data of Luzon area only. Soon we will add Visayas and Mindanao areas next time so that we can cover the whole Philippines.
 
-## Author
+## Developer/Author
 Maria Kristina Salada
 
 View profile on GitHub [Account](https://github.com/mksalada) or [Page](https://mksalada.github.io)
