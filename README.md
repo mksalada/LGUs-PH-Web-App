@@ -78,4 +78,4 @@ Maria Kristina Salada
 View profile on GitHub [Account](https://github.com/mksalada) or [Page](https://mksalada.github.io)
 
 ## Contact
-For inquiries, visit [https://mksit.tk/#contact](https://mksit.tk/#contact). Please fill up all the textboxes for complete details of your concern.
+For inquiries, visit [https://mksalada.netlify.com](https://mksalada.netlify.com). Please fill up all the textboxes for complete details of your concern.
