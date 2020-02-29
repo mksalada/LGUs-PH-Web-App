@@ -1,9 +1,9 @@
 # LGUs PH Web App
 Local Government Units in the Philippines Web Application (LGUs PH Web App) by M. K. Salada
 
-This web application manages the data of the Local Government Units (LGUs) in the Philippines but only covers the regions of Luzon island: National Capital Region (NCR), Regions 1 to 5, and Cordillera Administrative Region (CAR). This application is inspired from the Local Government Academy’s Local Government Units Directory ([https://lga.gov.ph/directory](lga.gov.ph/directory)) where you can find all of the LGUs in the whole Philippine islands.
+This web application manages the data of the Local Government Units (LGUs) in the Philippines but only covers the regions of Luzon island: National Capital Region (NCR), Regions 1 to 5, and Cordillera Administrative Region (CAR). This application is inspired from the Local Government Academy’s Local Government Units Directory ([lga.gov.ph/directory](https://lga.gov.ph/directory)) where you can find all of the LGUs in the whole Philippine islands.
 
-The database was made easy because of _OJ Tibi’s Philippine Provinces and Cities_ database ([https://bit.ly/2sjMM8Y](bit.ly/2sjMM8Y)) and the Wikipedia maps of the LGUs from Local Government Academy website.
+The database was made easy because of _OJ Tibi’s Philippine Provinces and Cities_ database ([bit.ly/2sjMM8Y](https://bit.ly/2sjMM8Y)) and the Wikipedia maps of the LGUs from Local Government Academy website.
 
 ## Installation Materials
 * Text editor
@@ -11,8 +11,8 @@ The database was made easy because of _OJ Tibi’s Philippine Provinces and Citi
 * Web server
 * Database application
 * Files in the repository
-    * lgus.rar
-    * luzonlgus.sql
+    * ```lgus.rar```
+    * ```luzonlgus.sql```
 
 ## Installation Procedures
 First, ensure that your web server’s Apache and MySQL are both running. Then, import the ```luzonlgus.sql``` script in your database application inside your choosen database.
@@ -52,7 +52,7 @@ Luzon may also refer to one of the three primary island groups in the country. A
 # Download
 File download options
 
-* [Google Drive](https://drive.google.com/drive/folders/1xSP8bj3qvd1BzclYDcEBKiMJ8lRiv2QN)
+<!--* [Google Drive](https://drive.google.com/drive/folders/1xSP8bj3qvd1BzclYDcEBKiMJ8lRiv2QN)-->
 * [Zip File](https://github.com/mksalada/LGUs-PH-Web-App/archive/master.zip)
 * [Fork/Clone Repository on GitHub](https://github.com/mksalada/LGUs-PH-Web-App/)
 
@@ -67,7 +67,7 @@ Photos and Icons are not mine.
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ## Notice
 This application is on-going. Currently it have data of Luzon area only. Soon we will add Visayas and Mindanao areas next time so that we can cover the whole Philippines.
@@ -78,4 +78,4 @@ Maria Kristina Salada
 View profile on GitHub [Account](https://github.com/mksalada) or [Page](https://mksalada.github.io)
 
 ## Contact
-For inquiries, visit [https://mksalada.netlify.com](https://mksalada.netlify.com). Please fill up all the textboxes for complete details of your concern.
+For inquiries, visit [mksalada.netlify.com](https://mksalada.netlify.com). Please fill up all the textboxes for complete details of your concern.
