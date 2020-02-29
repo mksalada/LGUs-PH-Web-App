@@ -1,9 +1,9 @@
 # LGUs PH Web App
 Local Government Units in the Philippines Web Application (LGUs PH Web App) by M. K. Salada
 
-This web application manages the data of the Local Government Units (LGUs) in the Philippines but only covers the regions of Luzon island: National Capital Region (NCR), Regions 1 to 5, and Cordillera Administrative Region (CAR). This application is inspired from the Local Government Academy’s Local Government Units Directory ([lga.gov.ph/directory](lga.gov.ph/directory)) where you can find all of the LGUs in the whole Philippine islands.
+This web application manages the data of the Local Government Units (LGUs) in the Philippines but only covers the regions of Luzon island: National Capital Region (NCR), Regions 1 to 5, and Cordillera Administrative Region (CAR). This application is inspired from the Local Government Academy’s Local Government Units Directory ([https://lga.gov.ph/directory](lga.gov.ph/directory)) where you can find all of the LGUs in the whole Philippine islands.
 
-The database was made easy because of _OJ Tibi’s Philippine Provinces and Cities_ database ([bit.ly/2sjMM8Y](bit.ly/2sjMM8Y)) and the Wikipedia maps of the LGUs from Local Government Academy website.
+The database was made easy because of _OJ Tibi’s Philippine Provinces and Cities_ database ([https://bit.ly/2sjMM8Y](bit.ly/2sjMM8Y)) and the Wikipedia maps of the LGUs from Local Government Academy website.
 
 ## Installation Materials
 * Text editor
