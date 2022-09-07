@@ -69,13 +69,7 @@ Photos and Icons are not mine.
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-## Notice
-This application is on-going. Currently it have data of Luzon area only. Soon we will add Visayas and Mindanao areas next time so that we can cover the whole Philippines.
-
 ## Developer/Author
 Maria Kristina Salada
 
 View profile on GitHub [Account](https://github.com/mksalada) or [Page](https://mksalada.github.io)
-
-## Contact
-For inquiries, visit [www.mksph.ml/#contact](https://mksph.ml/#contact). Please fill up all the textboxes for complete details of your concern.
